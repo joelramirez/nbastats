@@ -1,0 +1,14 @@
+{
+  "name": "NBA Stats",
+  "version": "1.0.0",
+  "description": "sit test matrix status",
+  "main": "Views/Index.cshtml",
+  "keywords": [
+    "basketball",
+    "nba",
+    "stats",
+    "statistics"
+  ],
+  "author": "JR",
+  "license": "ISC"
+}
